@@ -1,5 +1,7 @@
 Revision history for Perl extension Conf.
 
+0.10 Changed testscript to skip tests that cannot be executed.
+
 0.09 Changed namespace from Conf::SQL to Config::Backend::SQL.
 
 0.08 Documentation for del method added. Links repaired.

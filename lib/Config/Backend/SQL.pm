@@ -4,7 +4,7 @@ use 5.006;
 use strict;
 use DBI;
 
-our $VERSION='0.09';
+our $VERSION='0.10';
 
 sub new {
   my $class=shift;
